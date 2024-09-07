@@ -1,2 +1,2 @@
 # demo
-this is demo for prectice purpose
+this is my first prectice project.
